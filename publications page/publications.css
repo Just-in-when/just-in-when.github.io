@@ -1,0 +1,15 @@
+#navpill:hover {
+    background-color: black;
+    opacity: .3;
+    }
+
+h1 {
+    text-align: center;
+}
+
+.year {
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+}
