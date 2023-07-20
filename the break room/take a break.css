@@ -30,6 +30,7 @@
         width: 100%;
         pointer-events: none;
         margin-bottom: 100%;
+        z-index: 1;
         }
 
     #navpill:hover {
