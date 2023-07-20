@@ -40,7 +40,7 @@
 
     #chirpysfarm {
         z-index: 20;
-        position: absolute;
+        position: relative;
         margin: auto;
         margin-top: 90%;
         top: 55%;
