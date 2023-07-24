@@ -1,6 +1,6 @@
 .body {margin: 0%;}
 *{
-  font-family: 'Angkor', cursive;
+  font-family: 'Montserrat', sans-serif;
 }
 
 /* a{
@@ -166,8 +166,3 @@
     text-overflow:ellipsis;
     white-space: nowrap;
    }
-
-   
-  
-  
-  }

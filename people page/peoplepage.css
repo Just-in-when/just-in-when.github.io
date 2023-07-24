@@ -5,8 +5,9 @@
     } */
 
     *{
-      font-family: 'Angkor', cursive;
+      font-family: 'Montserrat', sans-serif;
     }
+    
 h1{
   z-index: 20;
   position: relative;
