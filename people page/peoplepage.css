@@ -1,12 +1,21 @@
-
+/* 
 #navpill:hover {
     background-color: black;
     opacity: .3;
-    }
+    } */
 
+    *{
+      font-family: 'Angkor', cursive;
+    }
 h1{
   z-index: 20;
   position: relative;
+  
+  text-align: center;
+  margin-top: 1.5rem;
+  position: relative;
+
+
 }
 
 #navbar-inner{
@@ -112,3 +121,30 @@ h1{
     pointer-events: none;
     margin-bottom: 100%;
     }
+
+    #navpill{
+  
+      height:100px;
+       text-align:center;
+       position: relative;
+       z-index: 20;
+       display: flex;
+       align-items: center;
+    
+  }
+  
+  #navpill:hover {
+      background-color: black;
+      opacity: .3;
+      /* height: 10px; */
+      }
+   
+      #publi{
+
+        position: fixed;
+        opacity: 0.2;
+      }    
+
+  #grid{
+    position: relative;
+  }
