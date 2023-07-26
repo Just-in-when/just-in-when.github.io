@@ -76,3 +76,9 @@
         align-items: center;
         
     }
+
+    #publi{
+
+        position: fixed;
+        opacity: 0.2;
+    }
